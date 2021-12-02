@@ -8,7 +8,7 @@ This is still a WIP and not quite ready for consumption. The colorization code i
 
 The current iteration is configured to colorize the 3 rathian types and barroth only. Note that colorization takes a LONG time at the moment
 
-1. Unchunk the chunks into a secondary location - go in into the unchunked folder and copy all the texture files fromt he spreadsheet out into a new folder.
+1. Unchunk the chunks into a secondary location - go in into the unchunked folder and copy all the texture files from the spreadsheet out into a new folder.
 2. Place the MHWTexConverter_by_Jodo in this folder.
 3. Select ALL the .tex files and drag it to the MHWTexConverted to convert them all to .dds
    - this will put a BC1S\_ prefix on all the .dds files, which will make them easy to pick out
