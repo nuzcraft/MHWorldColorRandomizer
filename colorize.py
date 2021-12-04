@@ -20,7 +20,7 @@ def shift_hue(arr, hout):
     arr = np.dstack((r, g, b, a))
     return arr
 
-def shift_hue2(arr, new_hues, sat_diff, val_diff, palette, invert):
+def shift_hue_old(arr, new_hues, sat_diff, val_diff, palette, invert):
     r, g, b, a = np.rollaxis(arr, axis=-1)
     h, s, v = rgb_to_hsv(r, g, b)
     for idx1,hue_array in enumerate(h):
@@ -48,6 +48,42 @@ def shift_hue2(arr, new_hues, sat_diff, val_diff, palette, invert):
             # elif new_v > 255:
             #     new_v = 255
             # v[idx1][idx2] = new_v
+    r, g, b = hsv_to_rgb(h, s, v)
+    if invert:
+        r,g,b = 255-r,255-g,255-b
+    arr = np.dstack((r, g, b, a))
+    return arr
+
+def shift_hue2(arr, new_hues, sat_diff, val_diff, palette, invert):
+    r, g, b, a = np.rollaxis(arr, axis=-1)
+    h, s, v = rgb_to_hsv(r, g, b)
+    for i in range(len(h)):
+        for j in range(len(h[i])):
+            closest_palette_hue_index = 0
+            closest_distance = 1000
+            for k in range(len(palette)):
+                rp, gp, bp = palette[k]
+                # hp, sp, vp = rgb_to_hsv(rp, gp, bp)
+                # new_distance = distance_hsv(hp, sp, vp, h[i][j], s[i][j], v[i][j])
+                new_distance = distance(rp, gp, bp, r[i][j], g[i][j], b[i][j])
+                if new_distance <= 40:
+                    break
+                if new_distance < closest_distance:
+                    closest_palette_hue_index = k
+                    closest_distance = new_distance
+            h[i][j] = new_hues[closest_palette_hue_index]
+            new_s = s[i][j] + .2 #sat_diff[closest_palette_hue_index]
+            if new_s < 0:
+                new_s = 0
+            elif new_s > 1:
+                new_s = 1
+            s[i][j] = new_s
+            new_v = v[i][j] + -255*.2 # val_diff[closest_palette_hue_index]
+            if new_v < 0:
+                new_v = 0
+            elif new_v > 255:
+                new_v = 255
+            v[i][j] = new_v
     r, g, b = hsv_to_rgb(h, s, v)
     if invert:
         r,g,b = 255-r,255-g,255-b
