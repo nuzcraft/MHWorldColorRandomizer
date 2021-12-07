@@ -1,8 +1,36 @@
-edit/em/em001/00/mod/em001_00_BML.png,em001_00_BML,rathian,12,final/em/em001/00/mod/em001_00_BML.tex
-edit/em/em001/00/mod/em001_00_eye_BML.png,em001_00_eye_BML,rathian,6,final/em/em001/00/mod/em001_00_eye_BML.tex
-edit/em/em001/01/mod/em001_01_BML.png,em001_01_BML,pink rathian,12,final/em/em001/01/mod/em001_01_BML.tex
-edit/em/em001/01/mod/em001_01_eye_BML.png,em001_01_eye_BML,pink rathian,6,final/em/em001/01/mod/em001_01_eye_BML.tex
-edit/em/em001/02/mod/em001_02_BML.png,em001_02_BML,gold rathian,12,final/em/em001/02/mod/em001_02_BML.tex
-edit/em/em001/02/mod/em001_02_eye_BML.png,em001_02_eye_BML,gold rathian,6,final/em/em001/02/mod/em001_02_eye_BML.tex
-edit/em/em044/00/mod/em044_00_BML.png,em044_00_BML,barroth,12,final/em/em044/00/mod/em044_00_BML.tex
-edit/em/em044/00/mod/em044_00_eye_BML.png,em044_00_eye_BML,barroth,6,final/em/em044/00/mod/em044_00_eye_BML.tex
+edit/em/em001/00/mod/em001_00_BML.png,em001_00_BML,rathian,8,final/em/em001/00/mod/em001_00_BML.tex,BC1S
+edit/em/em001/00/mod/em001_00_eye_BML.png,em001_00_eye_BML,rathian,4,final/em/em001/00/mod/em001_00_eye_BML.tex,BC1S
+edit/em/em001/01/mod/em001_01_BML.png,em001_01_BML,pink rathian,8,final/em/em001/01/mod/em001_01_BML.tex,BC1S
+edit/em/em001/01/mod/em001_01_eye_BML.png,em001_01_eye_BML,pink rathian,4,final/em/em001/01/mod/em001_01_eye_BML.tex,BC1S
+edit/em/em001/02/mod/em001_02_BML.png,em001_02_BML,gold rathian,8,final/em/em001/02/mod/em001_02_BML.tex,BC1S
+edit/em/em001/02/mod/em001_02_eye_BML.png,em001_02_eye_BML,gold rathian,4,final/em/em001/02/mod/em001_02_eye_BML.tex,BC1S
+edit/em/em044/00/mod/em044_00_BML.png,em044_00_BML,barroth,8,final/em/em044/00/mod/em044_00_BML.tex,BC1S
+edit/em/em044/00/mod/em044_00_eye_BML.png,em044_00_eye_BML,barroth,4,final/em/em044/00/mod/em044_00_eye_BML.tex,BC1S
+edit/em/em002/00/mod/em002_00_BML.png,em002_00_BML,rathalos,8,final/em/em002/00/mod/em002_00_BML.tex,BC1S
+edit/em/em002/00/mod/em002_00_eye_BML.png,em002_00_eye_BML,rathalos,4,final/em/em002/00/mod/em002_00_eye_BML.tex,BC1S
+edit/em/em002/01/mod/em002_01_BML.png,em002_01_BML,azure rathalos,8,final/em/em002/01/mod/em002_01_BML.tex,BC1S
+edit/em/em002/01/mod/em002_01_eye_BML.png,em002_01_eye_BML,azure rathalos,4,final/em/em002/01/mod/em002_01_eye_BML.tex,BC1S
+edit/em/em002/02/mod/em002_02_BML.png,em002_02_BML,silver rathalos,8,final/em/em002/02/mod/em002_02_BML.tex,BC1S
+edit/em/em002/02/mod/em002_02_eye_BML.png,em002_02_eye_BML,silver rathalos,4,final/em/em002/02/mod/em002_02_eye_BML.tex,BC1S
+edit/em/em007/00/mod/em007_00_BM.png,em007_00_BM,diablos,8,final/em/em007/00/mod/em007_00_BM.tex,BC1S
+edit/em/em007/00/mod/em007_00_eye_BML.png,em007_00_eye_BML,diablos,4,final/em/em007/00/mod/em007_00_eye_BML.tex,BC1S
+edit/em/em007/01/mod/em007_01_BM.png,em007_01_BM,black diablos,8,final/em/em007/01/mod/em007_01_BM.tex,BC1S
+edit/em/em007/01/mod/em007_01_eye_BML.png,em007_01_eye_BML,black diablos,4,final/em/em007/01/mod/em007_01_eye_BML.tex,BC1S
+edit/em/em011/00/mod/em011_00_BM.png,em011_00_BM,kirin,8,final/em/em011/00/mod/em011_00_BM.tex,BC1S
+edit/em/em013/00/mod/em013_00_eye_BML.png,em013_00_eye_BML,fatalis,4,final/em/em013/00/mod/em013_00_eye_BML.tex,BC1S
+edit/em/em013/00/mod/em013_00_metal_BML.png,em013_00_metal_BML,fatalis,4,final/em/em013/00/mod/em013_00_metal_BML.tex,BC1S
+edit/em/em013/00/mod/em013_00_BML.png|edit/em/em013/00/mod/em013_00_wing_BML.png,em013_00_BML|em013_00_wing_BML,fatalis,8,final/em/em013/00/mod/em013_00_BML.tex|final/em/em013/00/mod/em013_00_wing_BML.tex,BC1S|BC1S
+edit/em/em018/00/mod/em018_00_BML.png,em018_00_BML,yian garuga,8,final/em/em018/00/mod/em018_00_BML.tex,BC1S
+edit/em/em018/00/mod/em018_00_eye_BML.png,em018_00_eye_BML,yian garuga,4,final/em/em018/00/mod/em018_00_eye_BML.tex,BC1S
+edit/em/em023/00/mod/em023_00_BML.png,em023_00_BML,rajang,8,final/em/em023/00/mod/em023_00_BML.tex,BC1S
+edit/em/em023/00/mod/em023_00_eye_BML.png,em023_00_eye_BML,rajang,4,final/em/em023/00/mod/em023_00_eye_BML.tex,BC1S
+edit/em/em023/05/mod/em023_05_BML.png,em023_05_BML,furious rajang,8,final/em/em023/05/mod/em023_05_BML.tex,BC1S
+edit/em/em023/05/mod/em023_05_eye_BML.png,em023_05_eye_BML,furious rajang,4,final/em/em023/05/mod/em023_05_eye_BML.tex,BC1S
+edit/em/em024/00/mod/em024_00_BML.png,em024_00_BML,kushala daora,8,final/em/em024/00/mod/em024_00_BML.tex,BC1S
+edit/em/em024/00/mod/em024_00_env_BM.png,em024_00_env_BM,kushala daora,4,final/em/em024/00/mod/em024_00_env_BM.tex,BC1S
+edit/em/em024/00/mod/em024_00_eye_BML.png,em024_00_eye_BML,kushala daora,4,final/em/em024/00/mod/em024_00_eye_BML.tex,BC1S
+edit/em/em026/00/mod/em026_00_BML.png,em026_00_BML,lunastra,8,final/em/em026/00/mod/em026_00_BML.tex,BC1S
+edit/em/em026/00/mod/em026_00_eye_BML.png,em026_00_eye_BML,lunastra,4,final/em/em026/00/mod/em026_00_eye_BML.tex,BC1S
+edit/em/em027/00/mod/em027_00_BML.png|edit/em/em027/00/mod/em027_00_hair_BM.png|edit/em/em027/00/mod/em027_00_hairblend_BML.png,em027_00_BML|em027_00_hair_BM|em027_00_hairblend_BML,teostra,8,final/em/em027/00/mod/em027_00_BML.tex|final/em/em027/00/mod/em027_00_hair_BM.tex|final/em/em027/00/mod/em027_00_hairblend_BML.tex,BC1S|BC7S|BC1S
+edit/em/em027/00/mod/em027_00_env_BM.png,em027_00_env_BM,teostra,4,final/em/em027/00/mod/em027_00_env_BM.tex,BC1S
+edit/em/em027/00/mod/em027_00_eye_BML.png,em027_00_eye_BML,teostra,4,final/em/em027/00/mod/em027_00_eye_BML.tex,BC1S

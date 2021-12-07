@@ -43,3 +43,5 @@ AlbinoDonkey and their randomizer - https://github.com/JHenry2/mhw_randomizer
 IncognitoMan and their FU Complete mod - https://github.com/FUComplete
 
 OH SHIT! This Monster Hunter World Modding wiki might be exactly what I need - https://github.com/Ezekial711/MonsterHunterWorldModding - there's a section devoted to texture editing - https://github.com/Ezekial711/MonsterHunterWorldModding/wiki/Obtaining,-Converting-and-Replacing-Textures
+
+https://gametechdev.github.io/Intel-Texture-Works-Plugin/ allows us to open files saved with BC7S compression and save them as pngs

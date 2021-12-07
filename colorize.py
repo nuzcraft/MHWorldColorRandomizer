@@ -20,40 +20,6 @@ def shift_hue(arr, hout):
     arr = np.dstack((r, g, b, a))
     return arr
 
-def shift_hue_old(arr, new_hues, sat_diff, val_diff, palette, invert):
-    r, g, b, a = np.rollaxis(arr, axis=-1)
-    h, s, v = rgb_to_hsv(r, g, b)
-    for idx1,hue_array in enumerate(h):
-        for idx2, hue in enumerate(hue_array):
-            closest_palette_hue_index = 0
-            closest_distance = 1000
-            for idx3, palette_vals in enumerate(palette):
-                # for each hue in the palette, see which is closest to our hue
-                rp, gp, bp = palette_vals
-                hp, sp, vp = rgb_to_hsv(rp, gp, bp)
-                new_distance = distance_hsv(hp, sp, vp, h[idx1][idx2], s[idx1][idx2], v[idx1][idx2])
-                if new_distance < closest_distance:
-                    closest_palette_hue_index = idx3
-                    closest_distance = new_distance
-            h[idx1][idx2] = new_hues[closest_palette_hue_index]
-            # new_s = s[idx1][idx2] + sat_diff[closest_palette_hue_index]
-            # if new_s < 0:
-            #     new_s = 0
-            # elif new_s > 1:
-            #     new_s = 1
-            # s[idx1][idx2] = new_s
-            # new_v = v[idx1][idx2] + val_diff[closest_palette_hue_index]
-            # if new_v < 0:
-            #     new_v = 0
-            # elif new_v > 255:
-            #     new_v = 255
-            # v[idx1][idx2] = new_v
-    r, g, b = hsv_to_rgb(h, s, v)
-    if invert:
-        r,g,b = 255-r,255-g,255-b
-    arr = np.dstack((r, g, b, a))
-    return arr
-
 def shift_hue2(arr, new_hues, sat_diff, val_diff, palette, invert):
     r, g, b, a = np.rollaxis(arr, axis=-1)
     h, s, v = rgb_to_hsv(r, g, b)
@@ -66,24 +32,25 @@ def shift_hue2(arr, new_hues, sat_diff, val_diff, palette, invert):
                 # hp, sp, vp = rgb_to_hsv(rp, gp, bp)
                 # new_distance = distance_hsv(hp, sp, vp, h[i][j], s[i][j], v[i][j])
                 new_distance = distance(rp, gp, bp, r[i][j], g[i][j], b[i][j])
-                if new_distance <= 40:
+                if new_distance <= 20:
                     break
                 if new_distance < closest_distance:
                     closest_palette_hue_index = k
                     closest_distance = new_distance
             h[i][j] = new_hues[closest_palette_hue_index]
-            new_s = s[i][j] + .2 #sat_diff[closest_palette_hue_index]
+            new_s = s[i][j] + sat_diff[closest_palette_hue_index]
             if new_s < 0:
                 new_s = 0
             elif new_s > 1:
                 new_s = 1
             s[i][j] = new_s
-            new_v = v[i][j] + -255*.2 # val_diff[closest_palette_hue_index]
-            if new_v < 0:
-                new_v = 0
-            elif new_v > 255:
-                new_v = 255
-            v[i][j] = new_v
+            if v[i][j] >= 255*.2:
+                new_v = v[i][j] + val_diff[closest_palette_hue_index]
+                if new_v < 0:
+                    new_v = 0
+                elif new_v > 255:
+                    new_v = 255
+                v[i][j] = new_v
     r, g, b = hsv_to_rgb(h, s, v)
     if invert:
         r,g,b = 255-r,255-g,255-b
@@ -116,32 +83,30 @@ def distance_hsv(h1, s1, v1, h2, s2, v2):
 
 if __name__=='__main__':
     parser = argparse.ArgumentParser(description = "Colorize a batch of .pngs with new hues")
-    parser.add_argument("-p", "--paletteSize", help = "Example: 4. Higher number means more variations.", required = False, default = "12")
-    parser.add_argument("-f", "--file", help = "Example: em/em001/00/mod/em001_00_BML.png. File to colorize.", required = True, default = "")
+    parser.add_argument("-p", "--paletteSize", help = "Example: 4. Higher number means more variations.", required = False, default = "8")
+    parser.add_argument("-f", "--file", help = "Example: em/em001/00/mod/em001_00_BML.png. File to colorize. pipe separate for multiple (|)", required = True, default = "")
     # parser.add_argument("-s", "--subDirectory", help = "Example: em01_rathian_002_006/002_image. Secondary directory to colorize. Not used to create the palette. Comma separate for multiple directories.", required = False, default = "")
     
     argument = parser.parse_args()
 
     colorCount = int(argument.paletteSize)
-    chosenFile = argument.file
+    files = argument.file
+    ls_files = files.split('|')
     # directories = argument.directory
     # subdirectories = argument.subDirectory
     # ls_directories = directories.split(',')
     # ls_subdirectories = subdirectories.split(',')
-    # imgs_for_palette = []
+    imgs_for_palette = []
     imgs = []
     files = []
 
     # we create 2 lists of images because we only want to create a palette based on the
     # primary folder. This way we create a palette based on velocidrome, then apply the 
     # same hue changes to velociprey 
-    # for directory in ls_directories:
-    #     for file in os.listdir(directory):
-    #         if file.endswith('.png'):
-    #             filename = directory + '/' + file
-    #             imgs_for_palette.append(Image.open(filename))
-    #             imgs.append(Image.open(filename))
-    #             files.append(filename)
+    for i_file in ls_files:
+        imgs_for_palette.append(Image.open(i_file))
+        imgs.append(Image.open(i_file))
+        files.append(i_file)
     
     # if argument.subDirectory:
     #     for subdirectory in ls_subdirectories:
@@ -151,26 +116,22 @@ if __name__=='__main__':
     #                 imgs.append(Image.open(filename))
     #                 files.append(filename)
 
-    # imgs_for_palette.append(Image.open(chosenFile))
-    imgs.append(Image.open(chosenFile))
-    files.append(chosenFile)
-
     # take all the images in the folder and merge them into a super image that we 
     # can pull a full palette from. This new image will be deleted later
-    # img_size = imgs_for_palette[0].size
-    # merged_image = Image.new('RGBA', (len(imgs)*img_size[0], img_size[1]))
-    # for idx, png in enumerate(imgs_for_palette):
-    #     resized_img = imgs_for_palette[idx].resize(img_size)
-    #     merged_image.paste(resized_img, (idx*img_size[0], 0))
-    # merged_filename = ls_directories[0] + '/merged.png'
-    # merged_image.save(merged_filename)
+    img_size = imgs_for_palette[0].size
+    merged_image = Image.new('RGBA', (len(imgs)*img_size[0], img_size[1]))
+    for idx, png in enumerate(imgs_for_palette):
+        resized_img = imgs_for_palette[idx].resize(img_size)
+        merged_image.paste(resized_img, (idx*img_size[0], 0))
+    merged_filename = ls_files[0].replace(".png", "_merged.png")
+    merged_image.save(merged_filename)
 
     #color thief generates the palette
-    color_thief = ColorThief(chosenFile)
+    color_thief = ColorThief(merged_filename)
     palette = color_thief.get_palette(color_count=colorCount) #8 maybe too busy?
 
     # once the palette is generated, remove the merged image
-    # os.remove(merged_filename)
+    os.remove(merged_filename)
 
     # take the palette and get the hues for that palette
     # we'll use these to create a range of hues randomize to the same destination hue
@@ -199,16 +160,16 @@ if __name__=='__main__':
         hues.append(random.random())
 
     # create random saturation changes - we'll only shift the saturation
-    # up or down just a bit
+    # up just a bit
     sats = []
     for x in range(1, len(hue_diff_arr)):
-        sats.append(random.random() * .4 - .2)
+        sats.append(random.random() * .3 + .2)
 
     # create random value changes - we'll only shift the value
-    # up or down a little bit, skew towards up :)
+    # down a little bit
     vals = []
     for x in range(1, len(hue_diff_arr)):
-        vals.append((random.random()*255*.4) - (.2*255))
+        vals.append(-1*(random.random()*255*.2) - (.1*255))
 
     # base 10% chance to fully invert the colors
     invert = False
@@ -217,6 +178,5 @@ if __name__=='__main__':
 
     # run through all the images and colorize them based on the new h, s, v info
     for idx, texture in enumerate(imgs):
-        # new_img = colorize(texture, hues, sats, vals, hue_diff_arr, invert)
         new_img = colorize(texture, hues, sats, vals, palette, invert)
         new_img.save(files[idx])
