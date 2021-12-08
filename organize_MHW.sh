@@ -22,7 +22,7 @@ python colorize.py -p $paletteSize -f $directory
 for index in "${!directory_arr[@]}"
 do
     echo "compressing $name - ${directory_arr[index]} to dds"
-    nvcompress -color -alpha -bc1 ${directory_arr[index]} "${directory_arr[index]%.*}.dds"
+    nvcompress -color -alpha -bc1a ${directory_arr[index]} "${directory_arr[index]%.*}.dds"
     echo "converting $name - ${directory_arr[index]} back to .tex"
     ./MHWTexConverter_by_Jodo.exe "${directory_arr[index]%.*}.dds"
     echo "moving $name - ${directory_arr[index]} to ${finalDirectory_arr[index]}"
