@@ -128,7 +128,7 @@ if __name__=='__main__':
 
     #color thief generates the palette
     color_thief = ColorThief(merged_filename)
-    palette = color_thief.get_palette(color_count=colorCount) #8 maybe too busy?
+    palette = color_thief.get_palette(color_count=colorCount, quality=3) #8 maybe too busy?
 
     # once the palette is generated, remove the merged image
     os.remove(merged_filename)
