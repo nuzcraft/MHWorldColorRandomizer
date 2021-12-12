@@ -36,18 +36,15 @@ edit/em/em013/00/mod/em013_00_damage_BML.png,em013_00_damage_BML,fatalis,4,final
 edit/em/em018/00/mod/em018_00_BML.png,em018_00_BML,yian garuga,8,final/em/em018/00/mod/em018_00_BML.tex,BC1S
 edit/em/em018/00/mod/em018_00_eye_BML.png,em018_00_eye_BML,yian garuga,4,final/em/em018/00/mod/em018_00_eye_BML.tex,BC1S
 edit/em/em018/00/mod/em018_00_damage_BML.png,em018_00_damage_BML,yian garuga,4,final/em/em018/00/mod/em018_00_damage_BML.tex,BC1S
-edit/em/em018/00/mod/em018_00_fur_BML.png,em018_00_fur_BML,yian garuga,4,final/em/em018/00/mod/em018_00_fur_BML.tex,BC1S
-edit/em/em018/00/mod/em018_00_furover_BML.png,em018_00_furover_BML,yian garuga,4,final/em/em018/00/mod/em018_00_furover_BML.tex,BC1S
+edit/em/em018/00/mod/em018_00_fur_BML.png|edit/em/em018/00/mod/em018_00_furover_BML.png,em018_00_fur_BML|em018_00_furover_BML,yian garuga,4,final/em/em018/00/mod/em018_00_fur_BML.tex|final/em/em018/00/mod/em018_00_furover_BML.tex,BC1S|BC1S
 edit/em/em023/00/mod/em023_00_BML.png,em023_00_BML,rajang,8,final/em/em023/00/mod/em023_00_BML.tex,BC1S
 edit/em/em023/00/mod/em023_00_eye_BML.png,em023_00_eye_BML,rajang,4,final/em/em023/00/mod/em023_00_eye_BML.tex,BC1S
 edit/em/em023/00/mod/em023_00_damage_BML.png,em023_00_damage_BML,rajang,4,final/em/em023/00/mod/em023_00_damage_BML.tex,BC1S
-edit/em/em023/00/mod/em023_00_hair_BML.png,em023_00_hair_BML,rajang,4,final/em/em023/00/mod/em023_00_hair_BML.tex,BC1S
-edit/em/em023/00/mod/em023_00_hairblend_BML.png,em023_00_hairblend_BML,rajang,4,final/em/em023/00/mod/em023_00_hairblend_BML.tex,BC1S
+edit/em/em023/00/mod/em023_00_hair_BML.png|edit/em/em023/00/mod/em023_00_hairblend_BML.png,em023_00_hair_BML|em023_00_hairblend_BML,rajang,4,final/em/em023/00/mod/em023_00_hair_BML.tex|final/em/em023/00/mod/em023_00_hairblend_BML.tex,BC1S|BC1S
 edit/em/em023/05/mod/em023_05_BML.png,em023_05_BML,furious rajang,8,final/em/em023/05/mod/em023_05_BML.tex,BC1S
 edit/em/em023/05/mod/em023_05_eye_BML.png,em023_05_eye_BML,furious rajang,4,final/em/em023/05/mod/em023_05_eye_BML.tex,BC1S
 edit/em/em023/05/mod/em023_05_damage_BML.png,em023_05_damage_BML,furious rajang,4,final/em/em023/05/mod/em023_05_damage_BML.tex,BC1S
-edit/em/em023/05/mod/em023_05_hair_BML.png,em023_05_hair_BML,furious rajang,4,final/em/em023/05/mod/em023_05_hair_BML.tex,BC1S
-edit/em/em023/05/mod/em023_05_hairblend_BML.png,em023_05_hairblend_BML,furious rajang,4,final/em/em023/05/mod/em023_05_hairblend_BML.tex,BC1S
+edit/em/em023/05/mod/em023_05_hair_BML.png|edit/em/em023/05/mod/em023_05_hairblend_BML.png,em023_05_hair_BML|em023_05_hairblend_BML,furious rajang,4,final/em/em023/05/mod/em023_05_hair_BML.tex|final/em/em023/05/mod/em023_05_hairblend_BML.tex,BC1S|BC1S
 edit/em/em023/05/mod/em023_05_ikari_BM.png,em023_05_ikari_BM,furious rajang,4,final/em/em023/05/mod/em023_05_ikari_BM.tex,BC7S
 edit/em/em024/00/mod/em024_00_BML.png,em024_00_BML,kushala daora,8,final/em/em024/00/mod/em024_00_BML.tex,BC1S
 edit/em/em024/00/mod/em024_00_env_BM.png,em024_00_env_BM,kushala daora,4,final/em/em024/00/mod/em024_00_env_BM.tex,BC1S
@@ -56,8 +53,7 @@ edit/em/em024/00/mod/em024_00_damage_BM.png,em024_00_damage_BM,kushala daora,4,f
 edit/em/em026/00/mod/em026_00_BML.png,em026_00_BML,lunastra,8,final/em/em026/00/mod/em026_00_BML.tex,BC1S
 edit/em/em026/00/mod/em026_00_eye_BML.png,em026_00_eye_BML,lunastra,4,final/em/em026/00/mod/em026_00_eye_BML.tex,BC1S
 edit/em/em026/00/mod/em026_00_damage_BM.png,em026_00_damage_BM,lunastra,4,final/em/em026/00/mod/em026_00_damage_BM.tex,BC7S
-edit/em/em026/00/mod/em026_00_hair_BM.png,em026_00_hair_BM,lunastra,4,final/em/em026/00/mod/em026_00_hair_BM.tex,BC7S
-edit/em/em026/00/mod/em026_00_hairblend_BML.png,em026_00_hairblend_BML,lunastra,4,final/em/em026/00/mod/em026_00_hairblend_BML.tex,BC1S
+edit/em/em026/00/mod/em026_00_hair_BM.png|edit/em/em026/00/mod/em026_00_hairblend_BML.png,em026_00_hair_BM|em026_00_hairblend_BML,lunastra,4,final/em/em026/00/mod/em026_00_hair_BM.tex|final/em/em026/00/mod/em026_00_hairblend_BML.tex,BC7S|BC1S
 edit/em/em027/00/mod/em027_00_BML.png,em027_00_BML,teostra,8,final/em/em027/00/mod/em027_00_BML.tex,BC1S
 edit/em/em027/00/mod/em027_00_hair_BM.png|edit/em/em027/00/mod/em027_00_hairblend_BML.png,em027_00_hair_BM|em027_00_hairblend_BML,teostra,8,final/em/em027/00/mod/em027_00_hair_BM.tex|final/em/em027/00/mod/em027_00_hairblend_BML.tex,BC7S|BC1S
 edit/em/em027/00/mod/em027_00_env_BM.png,em027_00_env_BM,teostra,4,final/em/em027/00/mod/em027_00_env_BM.tex,BC1S
@@ -74,19 +70,15 @@ edit/em/em036/00/mod/em036_00_magma_BML.png,em036_00_magma_BML,lavasioth,4,final
 edit/em/em037/00/mod/em037_00_BML.png,em037_00_BML,nargacuga,8,final/em/em037/00/mod/em037_00_BML.tex,BC1S
 edit/em/em037/00/mod/em037_00_damage_BM.png,em037_00_damage_BM,nargacuga,4,final/em/em037/00/mod/em037_00_damage_BM.tex,BC7S
 edit/em/em037/00/mod/em037_00_eye_BML.png,em037_00_eye_BML,nargacuga,4,final/em/em037/00/mod/em037_00_eye_BML.tex,BC1S
-edit/em/em037/00/mod/em037_00_hair_BM.png,em037_00_hair_BM,nargacuga,4,final/em/em037/00/mod/em037_00_hair_BM.tex,BC7S
-edit/em/em037/00/mod/em037_00_toge_BML.png,em037_00_toge_BML,nargacuga,4,final/em/em037/00/mod/em037_00_toge_BML.tex,BC1S
+edit/em/em037/00/mod/em037_00_hair_BM.png|edit/em/em037/00/mod/em037_00_toge_BML.png,em037_00_hair_BM|em037_00_toge_BML,nargacuga,4,final/em/em037/00/mod/em037_00_hair_BM.tex|final/em/em037/00/mod/em037_00_toge_BML.tex,BC7S|BC1S
 edit/em/em042/00/mod/em042_00_BML.png,em042_00_BML,barioth,8,final/em/em042/00/mod/em042_00_BML.tex,BC1S
 edit/em/em042/00/mod/em042_00_damage_BM.png,em042_00_damage_BM,barioth,4,final/em/em042/00/mod/em042_00_damage_BM.tex,BC7S
 edit/em/em042/00/mod/em042_00_eye_BML.png,em042_00_eye_BML,barioth,4,final/em/em042/00/mod/em042_00_eye_BML.tex,BC1S
-edit/em/em042/00/mod/em042_00_fur_BM.png,em042_00_fur_BM,barioth,4,final/em/em042/00/mod/em042_00_fur_BM.tex,BC7S
-edit/em/em042/00/mod/em042_00_furover_BML.png,em042_00_furover_BML,barioth,4,final/em/em042/00/mod/em042_00_furover_BML.tex,BC1S
+edit/em/em042/00/mod/em042_00_fur_BM.png|edit/em/em042/00/mod/em042_00_furover_BML.png,em042_00_fur_BM|em042_00_furover_BML,barioth,4,final/em/em042/00/mod/em042_00_fur_BM.tex|final/em/em042/00/mod/em042_00_furover_BML.tex,BC7S|BC1S
 edit/em/em042/05/mod/em042_05_BML.png,em042_05_BML,frostfang barioth,8,final/em/em042/05/mod/em042_05_BML.tex,BC1S
 edit/em/em042/05/mod/em042_05_damage_BM.png,em042_05_damage_BM,frostfang barioth,4,final/em/em042/05/mod/em042_05_damage_BM.tex,BC7S
 edit/em/em042/05/mod/em042_05_eye_BML.png,em042_05_eye_BML,frostfang barioth,4,final/em/em042/05/mod/em042_05_eye_BML.tex,BC1S
-edit/em/em042/05/mod/em042_05_fur_BM.png,em042_05_fur_BM,frostfang barioth,4,final/em/em042/05/mod/em042_05_fur_BM.tex,BC7S
-edit/em/em042/05/mod/em042_05_furover_BML.png,em042_05_furover_BML,frostfang barioth,4,final/em/em042/05/mod/em042_05_furover_BML.tex,BC1S
-edit/em/em042/05/mod/em042_05_hige_BM.png,em042_05_hige_BM,frostfang barioth,4,final/em/em042/05/mod/em042_05_hige_BM.tex,BC7S
+edit/em/em042/05/mod/em042_05_fur_BM.png|edit/em/em042/05/mod/em042_05_furover_BML.png|edit/em/em042/05/mod/em042_05_hige_BM.png,em042_05_fur_BM|em042_05_furover_BML|em042_05_hige_BM,frostfang barioth,4,final/em/em042/05/mod/em042_05_fur_BM.tex|final/em/em042/05/mod/em042_05_furover_BML.tex|final/em/em042/05/mod/em042_05_hige_BM.tex,BC7S|BC1S|BC7S
 edit/em/em042/05/mod/em042_05_ice_BML.png,em042_05_ice_BML,frostfang barioth,4,final/em/em042/05/mod/em042_05_ice_BML.tex,BC1S
 edit/em/em043/00/mod/em043_00_BML.png,em043_00_BML,deviljho,8,final/em/em043/00/mod/em043_00_BML.tex,BC1S
 edit/em/em043/00/mod/em043_00_damage_BM.png,em043_00_damage_BM,deviljho,4,final/em/em043/00/mod/em043_00_damage_BM.tex,BC7S
@@ -97,41 +89,32 @@ edit/em/em043/00/mod/em043_00_eye_BML.png,em043_00_eye_BML,savage deviljho,4,fin
 edit/em/em045/00/mod/em045_00_BML.png,em045_00_BML,uragaan,8,final/em/em045/00/mod/em045_00_BML.tex,BC1S
 edit/em/em045/00/mod/em045_00_damage_BM.png,em045_00_damage_BM,uragaan,4,final/em/em045/00/mod/em045_00_damage_BM.tex,BC7S
 edit/em/em045/00/mod/em045_00_eye_BML.png,em045_00_eye_BML,uragaan,4,final/em/em045/00/mod/em045_00_eye_BML.tex,BC1S
-edit/em/em050/00/mod/em050_00_BML.png,em050_00_BML,alatreon,8,final/em/em050/00/mod/em050_00_BML.tex,BC1S
+edit/em/em050/00/mod/em050_00_BML.png|edit/em/em050/00/mod/em050_00_wing_BML.png,em050_00_BML|em050_00_wing_BML,alatreon,8,final/em/em050/00/mod/em050_00_BML.tex|final/em/em050/00/mod/em050_00_wing_BML.tex,BC1S|BC1S
 edit/em/em050/00/mod/em050_00_damage_BM.png,em050_00_damage_BM,alatreon,4,final/em/em050/00/mod/em050_00_damage_BM.tex,BC7S
 edit/em/em050/00/mod/em050_00_eye_BML.png,em050_00_eye_BML,alatreon,4,final/em/em050/00/mod/em050_00_eye_BML.tex,BC1S
-edit/em/em050/00/mod/em050_00_wing_BML.png,em050_00_wing_BML,alatreon,8,final/em/em050/00/mod/em050_00_wing_BML.tex,BC1S
 edit/em/em050/00/mod/en050_00_env_BM.png,en050_00_env_BM,alatreon,4,final/em/em050/00/mod/en050_00_env_BM.tex,BC1S
 edit/em/em057/00/mod/em057_00_BM.png,em057_00_BM,zinogre,8,final/em/em057/00/mod/em057_00_BM.tex,BC1S
 edit/em/em057/00/mod/em057_00_damage_BM.png,em057_00_damage_BM,zinogre,4,final/em/em057/00/mod/em057_00_damage_BM.tex,BC7S
 edit/em/em057/00/mod/em057_00_eye_BML.png,em057_00_eye_BML,zinogre,4,final/em/em057/00/mod/em057_00_eye_BML.tex,BC1S
-edit/em/em057/00/mod/em057_00_fur_BM.png,em057_00_fur_BM,zinogre,4,final/em/em057/00/mod/em057_00_fur_BM.tex,BC7S
-edit/em/em057/00/mod/em057_00_furbase_BML.png,em057_00_furbase_BML,zinogre,4,final/em/em057/00/mod/em057_00_furbase_BML.tex,BC1S
+edit/em/em057/00/mod/em057_00_fur_BM.png|edit/em/em057/00/mod/em057_00_furbase_BML.png,em057_00_fur_BM|em057_00_furbase_BML,zinogre,4,final/em/em057/00/mod/em057_00_fur_BM.tex|final/em/em057/00/mod/em057_00_furbase_BML.tex,BC7S|BC1S
 edit/em/em057/01/mod/em057_01_BM.png,em057_01_BM,stygian zinogre,8,final/em/em057/01/mod/em057_01_BM.tex,BC1S
 edit/em/em057/01/mod/em057_01_damage_BM.png,em057_01_damage_BM,stygian zinogre,4,final/em/em057/01/mod/em057_01_damage_BM.tex,BC7S
 edit/em/em057/01/mod/em057_01_eye_BML.png,em057_01_eye_BML,stygian zinogre,4,final/em/em057/01/mod/em057_01_eye_BML.tex,BC1S
-edit/em/em057/01/mod/em057_01_fur_BM.png,em057_01_fur_BM,stygian zinogre,4,final/em/em057/01/mod/em057_01_fur_BM.tex,BC7S
-edit/em/em057/01/mod/em057_01_furbase_BML.png,em057_01_furbase_BML,stygian zinogre,4,final/em/em057/01/mod/em057_01_furbase_BML.tex,BC1S
+edit/em/em057/01/mod/em057_01_fur_BM.png|edit/em/em057/01/mod/em057_01_furbase_BML.png,em057_01_fur_BM|em057_01_furbase_BML,stygian zinogre,4,final/em/em057/01/mod/em057_01_fur_BM.tex|final/em/em057/01/mod/em057_01_furbase_BML.tex,BC7S|BC1S
 edit/em/em063/00/mod/em063_00_BML.png,em063_00_BML,brachydios,8,final/em/em063/00/mod/em063_00_BML.tex,BC1S
 edit/em/em063/00/mod/em063_00_damage_BM.png,em063_00_damage_BM,brachydios,4,final/em/em063/00/mod/em063_00_damage_BM.tex,BC7S
 edit/em/em063/00/mod/em063_00_eye_BML.png,em063_00_eye_BML,brachydios,4,final/em/em063/00/mod/em063_00_eye_BML.tex,BC1S
 edit/em/em063/00/mod/em063_00_nenkin_BM.png,em063_00_nenkin_BM,brachydios,4,final/em/em063/00/mod/em063_00_nenkin_BM.tex,BC7S
 edit/em/em063/05/mod/em063_05_BML.png,em063_05_BML,raging brachydios,8,final/em/em063/05/mod/em063_05_BML.tex,BC1S
-edit/em/em063/05/mod/em063_05_damage_2_BM.png,em063_05_damage_2_BM,raging brachydios,4,final/em/em063/05/mod/em063_05_damage_2_BM.tex,BC7S
-edit/em/em063/05/mod/em063_05_damage_BM.png,em063_05_damage_BM,raging brachydios,4,final/em/em063/05/mod/em063_05_damage_BM.tex,BC7S
+edit/em/em063/05/mod/em063_05_damage_2_BM.png|edit/em/em063/05/mod/em063_05_damage_BM.png,em063_05_damage_2_BM|em063_05_damage_BM,raging brachydios,4,final/em/em063/05/mod/em063_05_damage_2_BM.tex|final/em/em063/05/mod/em063_05_damage_BM.tex,BC7S|BC7S
 edit/em/em063/05/mod/em063_05_eye_BML.png,em063_05_eye_BML,raging brachydios,4,final/em/em063/05/mod/em063_05_eye_BML.tex,BC1S
 edit/em/em063/05/mod/em063_05_nenkin_BM.png,em063_05_nenkin_BM,raging brachydios,4,final/em/em063/05/mod/em063_05_nenkin_BM.tex,BC7S
-edit/em/em080/00/mod/em080_00_blend_BML.png,em080_00_blend_BML,glavenus,4,final/em/em080/00/mod/em080_00_blend_BML.tex,BC1S
-edit/em/em080/00/mod/em080_00_BML.png,em080_00_BML,glavenus,8,final/em/em080/00/mod/em080_00_BML.tex,BC1S
-edit/em/em080/00/mod/em080_00_damage_blend_BM.png,em080_00_damage_blend_BM,glavenus,4,final/em/em080/00/mod/em080_00_damage_blend_BM.tex,BC7S
-edit/em/em080/00/mod/em080_00_damage_BM.png,em080_00_damage_BM,glavenus,4,final/em/em080/00/mod/em080_00_damage_BM.tex,BC7S
+edit/em/em080/00/mod/em080_00_blend_BML.png|edit/em/em080/00/mod/em080_00_BML.png,em080_00_blend_BML|em080_00_BML,glavenus,4,final/em/em080/00/mod/em080_00_blend_BML.tex|final/em/em080/00/mod/em080_00_BML.tex,BC1S|BC1S
+edit/em/em080/00/mod/em080_00_damage_blend_BM.png|edit/em/em080/00/mod/em080_00_damage_BM.png,em080_00_damage_blend_BM|em080_00_damage_BM,glavenus,4,final/em/em080/00/mod/em080_00_damage_blend_BM.tex|final/em/em080/00/mod/em080_00_damage_BM.tex,BC7S|BC7S
 edit/em/em080/00/mod/em080_00_eye_BML.png,em080_00_eye_BML,glavenus,4,final/em/em080/00/mod/em080_00_eye_BML.tex,BC1S
 edit/em/em080/00/mod/em080_00_rust_BML.png,em080_00_rust_BML,glavenus,4,final/em/em080/00/mod/em080_00_rust_BML.tex,BC1S
-edit/em/em080/01/mod/em080_01_acid_BM.png,em080_01_acid_BM,acidic glavenus,4,final/em/em080/01/mod/em080_01_acid_BM.tex,BC7S
-edit/em/em080/01/mod/em080_01_acidblade_blend_BML.png,em080_01_acidblade_blend_BML,acidic glavenus,4,final/em/em080/01/mod/em080_01_acidblade_blend_BML.tex,BC1S
-edit/em/em080/01/mod/em080_01_acidblade_BML.png,em080_01_acidblade_BML,acidic glavenus,4,final/em/em080/01/mod/em080_01_acidblade_BML.tex,BC1S
-edit/em/em080/01/mod/em080_01_blend_BML.png,em080_01_blend_BML,acidic glavenus,4,final/em/em080/01/mod/em080_01_blend_BML.tex,BC1S
-edit/em/em080/01/mod/em080_01_BML.png,em080_01_BML,acidic glavenus,8,final/em/em080/01/mod/em080_01_BML.tex,BC1S
+edit/em/em080/01/mod/em080_01_acid_BM.png|edit/em/em080/01/mod/em080_01_acidblade_blend_BML.png|edit/em/em080/01/mod/em080_01_acidblade_BML.png,em080_01_acid_BM|em080_01_acidblade_blend_BML|em080_01_acidblade_BML,acidic glavenus,4,final/em/em080/01/mod/em080_01_acid_BM.tex|final/em/em080/01/mod/em080_01_acidblade_blend_BML.tex|final/em/em080/01/mod/em080_01_acidblade_BML.tex,BC7S|BC1S|BC1S
+edit/em/em080/01/mod/em080_01_blend_BML.png|edit/em/em080/01/mod/em080_01_BML.png,em080_01_blend_BML|em080_01_BML,acidic glavenus,4,final/em/em080/01/mod/em080_01_blend_BML.tex|final/em/em080/01/mod/em080_01_BML.tex,BC1S|BC1S
 edit/em/em080/01/mod/em080_01_damage_BM.png,em080_01_damage_BM,acidic glavenus,4,final/em/em080/01/mod/em080_01_damage_BM.tex,BC7S
 edit/em/em080/01/mod/em080_01_eye_BML.png,em080_01_eye_BML,acidic glavenus,4,final/em/em080/01/mod/em080_01_eye_BML.tex,BC1S
 edit/em/em100/00/mod/em100_00_BML.png,em100_00_BML,anjanath,8,final/em/em100/00/mod/em100_00_BML.tex,BC1S
@@ -141,80 +124,47 @@ edit/em/em100/00/mod/em100_00_fur_BM.png,em100_00_fur_BM,anjanath,4,final/em/em1
 edit/em/em100/01/mod/em100_01_BML.png,em100_01_BML,fulgar anjanath,8,final/em/em100/01/mod/em100_01_BML.tex,BC1S
 edit/em/em100/01/mod/em100_01_damage_BM.png,em100_01_damage_BM,fulgar anjanath,4,final/em/em100/01/mod/em100_01_damage_BM.tex,BC7S
 edit/em/em100/01/mod/em100_01_eye_BM.png,em100_01_eye_BM,fulgar anjanath,4,final/em/em100/01/mod/em100_01_eye_BM.tex,BC1S
-edit/em/em100/01/mod/em100_01_fur_2_BM.png,em100_01_fur_2_BM,fulgar anjanath,4,final/em/em100/01/mod/em100_01_fur_2_BM.tex,BC1S
-edit/em/em100/01/mod/em100_01_fur_BM.png,em100_01_fur_BM,fulgar anjanath,4,final/em/em100/01/mod/em100_01_fur_BM.tex,BC7S
-edit/em/em101/00/mod/em101_00_BML.png,em101_00_BML,great jagras,8,final/em/em101/00/mod/em101_00_BML.tex,BC1S
+edit/em/em100/01/mod/em100_01_fur_2_BM.png|edit/em/em100/01/mod/em100_01_fur_BM.png,em100_01_fur_2_BM|em100_01_fur_BM,fulgar anjanath,4,final/em/em100/01/mod/em100_01_fur_2_BM.tex|final/em/em100/01/mod/em100_01_fur_BM.tex,BC1S|BC7S
+edit/em/em101/00/mod/em101_00_BML.png|edit/em/ems049/00/mod/ems049_00_BML.png,em101_00_BML|ems049_00_BML,great jagras,8,final/em/em101/00/mod/em101_00_BML.tex|final/em/ems049/00/mod/ems049_00_BML.tex,BC1S|BC1S
 edit/em/em101/00/mod/em101_00_damage_BM.png,em101_00_damage_BM,great jagras,4,final/em/em101/00/mod/em101_00_damage_BM.tex,BC7S
 edit/em/em101/00/mod/em101_00_eye_BML.png,em101_00_eye_BML,great jagras,4,final/em/em101/00/mod/em101_00_eye_BML.tex,BC1S
 edit/em/em101/00/mod/em101_00_meat_BML.png,em101_00_meat_BML,great jagras,4,final/em/em101/00/mod/em101_00_meat_BML.tex,BC1S
-edit/em/em102/00/mod/em102_00_BML.png,em102_00_BML,pukei pukei,8,final/em/em102/00/mod/em102_00_BML.tex,BC1S
 edit/em/em102/00/mod/em102_00_damage_BM.png,em102_00_damage_BM,pukei pukei,4,final/em/em102/00/mod/em102_00_damage_BM.tex,BC7S
-edit/em/em102/00/mod/em102_00_eye_BML.png,em102_00_eye_BML,pukei pukei,4,final/em/em102/00/mod/em102_00_eye_BML.tex,BC1S
+edit/em/em102/00/mod/em102_00_eye_BML.png|edit/em/em102/00/mod/em102_00_BML.png,em102_00_eye_BML|em102_00_BML,pukei pukei,4,final/em/em102/00/mod/em102_00_eye_BML.tex|final/em/em102/00/mod/em102_00_BML.tex,BC1S|BC1S
 edit/em/em102/00/mod/em102_00_faceblend_BML.png,em102_00_faceblend_BML,pukei pukei,4,final/em/em102/00/mod/em102_00_faceblend_BML.tex,BC1S
-edit/em/em102/00/mod/em102_00_feather_BM.png,em102_00_feather_BM,pukei pukei,4,final/em/em102/00/mod/em102_00_feather_BM.tex,BC7S
-edit/em/em102/00/mod/em102_00_featherblend_BML.png,em102_00_featherblend_BML,pukei pukei,4,final/em/em102/00/mod/em102_00_featherblend_BML.tex,BC1S
-edit/em/em102/00/mod/em102_00_featherover_BML.png,em102_00_featherover_BML,pukei pukei,4,final/em/em102/00/mod/em102_00_featherover_BML.tex,BC1S
-edit/em/em102/01/mod/em102_01_BML.png,em102_01_BML,coral pukei pukei,8,final/em/em102/01/mod/em102_01_BML.tex,BC1S
+edit/em/em102/00/mod/em102_00_feather_BM.png|edit/em/em102/00/mod/em102_00_featherblend_BML.png|edit/em/em102/00/mod/em102_00_featherover_BML.png,em102_00_feather_BM|em102_00_featherblend_BML|em102_00_featherover_BML,pukei pukei,4,final/em/em102/00/mod/em102_00_feather_BM.tex|final/em/em102/00/mod/em102_00_featherblend_BML.tex|final/em/em102/00/mod/em102_00_featherover_BML.tex,BC7S|BC1S|BC1S
 edit/em/em102/01/mod/em102_01_damage_BM.png,em102_01_damage_BM,coral pukei pukei,4,final/em/em102/01/mod/em102_01_damage_BM.tex,BC7S
-edit/em/em102/01/mod/em102_01_eye_BML.png,em102_01_eye_BML,coral pukei pukei,4,final/em/em102/01/mod/em102_01_eye_BML.tex,BC1S
+edit/em/em102/01/mod/em102_01_eye_BML.png|edit/em/em102/01/mod/em102_01_BML.png,em102_01_eye_BML|em102_01_BML,coral pukei pukei,4,final/em/em102/01/mod/em102_01_eye_BML.tex|final/em/em102/01/mod/em102_01_BML.tex,BC1S|BC1S
 edit/em/em102/01/mod/em102_01_faceblend_BML.png,em102_01_faceblend_BML,coral pukei pukei,4,final/em/em102/01/mod/em102_01_faceblend_BML.tex,BC1S
-edit/em/em102/01/mod/em102_01_feather_BM.png,em102_01_feather_BM,coral pukei pukei,4,final/em/em102/01/mod/em102_01_feather_BM.tex,BC7S
-edit/em/em102/01/mod/em102_01_featherblend_BML.png,em102_01_featherblend_BML,coral pukei pukei,4,final/em/em102/01/mod/em102_01_featherblend_BML.tex,BC1S
-edit/em/em102/01/mod/em102_01_featherover_BML.png,em102_01_featherover_BML,coral pukei pukei,4,final/em/em102/01/mod/em102_01_featherover_BML.tex,BC1S
+edit/em/em102/01/mod/em102_01_feather_BM.png|edit/em/em102/01/mod/em102_01_featherblend_BML.png|edit/em/em102/01/mod/em102_01_featherover_BML.png,em102_01_feather_BM|em102_01_featherblend_BML|em102_01_featherover_BML,coral pukei pukei,4,final/em/em102/01/mod/em102_01_feather_BM.tex|final/em/em102/01/mod/em102_01_featherblend_BML.tex|final/em/em102/01/mod/em102_01_featherover_BML.tex,BC7S|BC1S|BC1S
 edit/em/em103/00/mod/em103_00_BML.png,em103_00_BML,nergigante,8,final/em/em103/00/mod/em103_00_BML.tex,BC1S
 edit/em/em103/00/mod/em103_00_damage_BM.png,em103_00_damage_BM,nergigante,4,final/em/em103/00/mod/em103_00_damage_BM.tex,BC7S
 edit/em/em103/00/mod/em103_00_eye_BML.png,em103_00_eye_BML,nergigante,4,final/em/em103/00/mod/em103_00_eye_BML.tex,BC1S
-edit/em/em103/00/mod/em103_00_thorn_black_BM.png,em103_00_thorn_black_BM,nergigante,4,final/em/em103/00/mod/em103_00_thorn_black_BM.tex,BC7S
-edit/em/em103/00/mod/em103_00_thorn_white_BM.png,em103_00_thorn_white_BM,nergigante,4,final/em/em103/00/mod/em103_00_thorn_white_BM.tex,BC7S
+edit/em/em103/00/mod/em103_00_thorn_black_BM.png|edit/em/em103/00/mod/em103_00_thorn_white_BM.png,em103_00_thorn_black_BM|em103_00_thorn_white_BM,nergigante,4,final/em/em103/00/mod/em103_00_thorn_black_BM.tex|final/em/em103/00/mod/em103_00_thorn_white_BM.tex,BC7S|BC7S
 edit/em/em103/05/mod/em103_05_BML.png,em103_05_BML,ruiner nergigante,8,final/em/em103/05/mod/em103_05_BML.tex,BC1S
 edit/em/em103/05/mod/em103_05_damage_BM.png,em103_05_damage_BM,ruiner nergigante,4,final/em/em103/05/mod/em103_05_damage_BM.tex,BC7S
 edit/em/em103/05/mod/em103_05_eye_BML.png,em103_05_eye_BML,ruiner nergigante,4,final/em/em103/05/mod/em103_05_eye_BML.tex,BC1S
 edit/em/em103/05/mod/em103_05_kyouka_BM.png,em103_05_kyouka_BM,ruiner nergigante,4,final/em/em103/05/mod/em103_05_kyouka_BM.tex,BC1S
-edit/em/em103/05/mod/em103_05_thorn_black_BM.png,em103_05_thorn_black_BM,ruiner nergigante,4,final/em/em103/05/mod/em103_05_thorn_black_BM.tex,BC7S
-edit/em/em103/05/mod/em103_05_thorn_white_BM.png,em103_05_thorn_white_BM,ruiner nergigante,4,final/em/em103/05/mod/em103_05_thorn_white_BM.tex,BC7S
-edit/em/em104/00/mod/em104_00_BML.png,em104_00_BML,safijiiva,8,final/em/em104/00/mod/em104_00_BML.tex,BC1S
+edit/em/em103/05/mod/em103_05_thorn_black_BM.png|edit/em/em103/05/mod/em103_05_thorn_white_BM.png,em103_05_thorn_black_BM|em103_05_thorn_white_BM,ruiner nergigante,4,final/em/em103/05/mod/em103_05_thorn_black_BM.tex|final/em/em103/05/mod/em103_05_thorn_white_BM.tex,BC7S|BC7S
+edit/em/em104/00/mod/em104_00_BML.png|edit/em/em104/00/mod/em104_00_wing_BML.png,em104_00_BML|em104_00_wing_BML,safijiiva,8,final/em/em104/00/mod/em104_00_BML.tex|final/em/em104/00/mod/em104_00_wing_BML.tex,BC1S|BC1S
 edit/em/em104/00/mod/em104_00_damage_BM.png,em104_00_damage_BM,safijiiva,4,final/em/em104/00/mod/em104_00_damage_BM.tex,BC7S
 edit/em/em104/00/mod/em104_00_eye_BML.png,em104_00_eye_BML,safijiiva,4,final/em/em104/00/mod/em104_00_eye_BML.tex,BC1S
-edit/em/em104/00/mod/em104_00_wing_BML.png,em104_00_wing_BML,safijiiva,8,final/em/em104/00/mod/em104_00_wing_BML.tex,BC1S
-edit/em/em105/00/mod/em105_00_00_BML.png,em105_00_00_BML,xenojiiva,8,final/em/em105/00/mod/em105_00_00_BML.tex,BC1S
-edit/em/em105/00/mod/em105_00_01_BML.png,em105_00_01_BML,xenojiiva,8,final/em/em105/00/mod/em105_00_01_BML.tex,BC1S
+edit/em/em105/00/mod/em105_00_00_BML.png|edit/em/em105/00/mod/em105_00_01_BML.png,em105_00_00_BML|em105_00_01_BML,xenojiiva,8,final/em/em105/00/mod/em105_00_00_BML.tex|final/em/em105/00/mod/em105_00_01_BML.tex,BC1S|BC1S
 edit/em/em105/00/mod/em105_00_damage_BM.png,em105_00_damage_BM,xenojiiva,4,final/em/em105/00/mod/em105_00_damage_BM.tex,BC7S
 edit/em/em105/00/mod/em105_00_hone_BM.png,em105_00_hone_BM,xenojiiva,4,final/em/em105/00/mod/em105_00_hone_BM.tex,BC7S
-edit/em/em106/00/mod/box120_043_00_BML.png,box120_043_00_BML,zorah,4,final/em/em105/00/mod/box120_043_00_BML.tex,BC1S
-edit/em/em106/00/mod/em106_00_BM.png,em106_00_BM,zorah,4,final/em/em105/00/mod/em106_00_BM.tex,BC1S
-edit/em/em106/00/mod/em106_00_coreground_BM.png,em106_00_coreground_BM,zorah,4,final/em/em105/00/mod/em106_00_coreground_BM.tex,BC1S
-edit/em/em106/00/mod/em106_00_damage_BM.png,em106_00_damage_BM,zorah,4,final/em/em105/00/mod/em106_00_damage_BM.tex,BC7S
-edit/em/em106/00/mod/em106_00_eye_BML.png,em106_00_eye_BML,zorah,4,final/em/em105/00/mod/em106_00_eye_BML.tex,BC1S
-edit/em/em106/00/mod/em106_00_front_leg_BM.png,em106_00_front_leg_BM,zorah,4,final/em/em105/00/mod/em106_00_front_leg_BM.tex,BC1S
-edit/em/em106/00/mod/em106_00_head_BM.png,em106_00_head_BM,zorah,4,final/em/em105/00/mod/em106_00_head_BM.tex,BC1S
-edit/em/em106/00/mod/em106_00_hind_leg_BM.png,em106_00_hind_leg_BM,zorah,4,final/em/em105/00/mod/em106_00_hind_leg_BM.tex,BC1S
-edit/em/em106/00/mod/em106_00_metal_BM.png,em106_00_metal_BM,zorah,4,final/em/em105/00/mod/em106_00_metal_BM.tex,BC1S
-edit/em/em106/00/mod/gnd05_rock_04a_BML.png,gnd05_rock_04a_BML,zorah,4,final/em/em105/00/mod/gnd05_rock_04a_BML.tex,BC1S
-edit/em/em106/00/mod/gnd06_lava3_02_BML.png,gnd06_lava3_02_BML,zorah,4,final/em/em105/00/mod/gnd06_lava3_02_BML.tex,BC1S
-edit/em/em106/00/mod/stm520_000_00_BML.png,stm520_000_00_BML,zorah,4,final/em/em105/00/mod/stm520_000_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm520_024_00_BML.png,stm520_024_00_BML,zorah,4,final/em/em105/00/mod/stm520_024_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm520_050_00a_BML.png,stm520_050_00a_BML,zorah,4,final/em/em105/00/mod/stm520_050_00a_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_001_00_00_BML.png,stm650_001_00_00_BML,zorah,4,final/em/em105/00/mod/stm650_001_00_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_001_00_01_BML.png,stm650_001_00_01_BML,zorah,4,final/em/em105/00/mod/stm650_001_00_01_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_002_00_00_BML.png,stm650_002_00_00_BML,zorah,4,final/em/em105/00/mod/stm650_002_00_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_002_00_01_BML.png,stm650_002_00_01_BML,zorah,4,final/em/em105/00/mod/stm650_002_00_01_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_002_00_02_BML.png,stm650_002_00_02_BML,zorah,4,final/em/em105/00/mod/stm650_002_00_02_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_003_00_00_BML.png,stm650_003_00_00_BML,zorah,4,final/em/em105/00/mod/stm650_003_00_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_003_00_01_BML.png,stm650_003_00_01_BML,zorah,4,final/em/em105/00/mod/stm650_003_00_01_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_004_00_00_BML.png,stm650_004_00_00_BML,zorah,4,final/em/em105/00/mod/stm650_004_00_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_004_00_01_BML.png,stm650_004_00_01_BML,zorah,4,final/em/em105/00/mod/stm650_004_00_01_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_005_00_00_BML.png,stm650_005_00_00_BML,zorah,4,final/em/em105/00/mod/stm650_005_00_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_005_00_01_BML.png,stm650_005_00_01_BML,zorah,4,final/em/em105/00/mod/stm650_005_00_01_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_006_00_00_BML.png,stm650_006_00_00_BML,zorah,4,final/em/em105/00/mod/stm650_006_00_00_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_006_00_01_BML.png,stm650_006_00_01_BML,zorah,4,final/em/em105/00/mod/stm650_006_00_01_BML.tex,BC1S
-edit/em/em106/00/mod/stm650_007_00a_BML.png,stm650_007_00a_BML,zorah,4,final/em/em105/00/mod/stm650_007_00a_BML.tex,BC1S
-edit/em/em106/00/mod/yougan00_BM.png,yougan00_BM,zorah,4,final/em/em105/00/mod/yougan00_BM.tex,BC1S
+edit/em/em106/00/mod/em106_00_BM.png|edit/em/em106/00/mod/em106_00_front_leg_BM.png|edit/em/em106/00/mod/em106_00_head_BM.png|edit/em/em106/00/mod/em106_00_hind_leg_BM.png,em106_00_BM|em106_00_front_leg_BM|em106_00_head_BM|em106_00_hind_leg_BM,zorah,4,final/em/em106/00/mod/em106_00_BM.tex|final/em/em106/00/mod/em106_00_front_leg_BM.tex|final/em/em106/00/mod/em106_00_head_BM.tex|final/em/em106/00/mod/em106_00_hind_leg_BM.tex,BC1S|BC1S|BC1S|BC1S
+edit/em/em106/00/mod/em106_00_coreground_BM.png,em106_00_coreground_BM,zorah,4,final/em/em106/00/mod/em106_00_coreground_BM.tex,BC1S
+edit/em/em106/00/mod/em106_00_damage_BM.png,em106_00_damage_BM,zorah,4,final/em/em106/00/mod/em106_00_damage_BM.tex,BC7S
+edit/em/em106/00/mod/em106_00_eye_BML.png,em106_00_eye_BML,zorah,4,final/em/em106/00/mod/em106_00_eye_BML.tex,BC1S
+edit/em/em106/00/mod/em106_00_metal_BM.png,em106_00_metal_BM,zorah,4,final/em/em106/00/mod/em106_00_metal_BM.tex,BC1S
+edit/em/em106/00/mod/gnd06_lava3_02_BML.png,gnd06_lava3_02_BML,zorah,4,final/em/em106/00/mod/gnd06_lava3_02_BML.tex,BC1S
+edit/em/em106/00/mod/box120_043_00_BML.png|edit/em/em106/00/mod/gnd05_rock_04a_BML.png|edit/em/em106/00/mod/stm520_000_00_BML.png|edit/em/em106/00/mod/stm520_024_00_BML.png|edit/em/em106/00/mod/stm520_050_00a_BML.png|edit/em/em106/00/mod/stm650_001_00_00_BML.png|edit/em/em106/00/mod/stm650_001_00_01_BML.png|edit/em/em106/00/mod/stm650_002_00_00_BML.png|edit/em/em106/00/mod/stm650_002_00_01_BML.png|edit/em/em106/00/mod/stm650_002_00_02_BML.png|edit/em/em106/00/mod/stm650_003_00_00_BML.png|edit/em/em106/00/mod/stm650_003_00_01_BML.png|edit/em/em106/00/mod/stm650_004_00_00_BML.png|edit/em/em106/00/mod/stm650_004_00_01_BML.png|edit/em/em106/00/mod/stm650_005_00_00_BML.png|edit/em/em106/00/mod/stm650_005_00_01_BML.png|edit/em/em106/00/mod/stm650_006_00_00_BML.png|edit/em/em106/00/mod/stm650_006_00_01_BML.png|edit/em/em106/00/mod/stm650_007_00a_BML.png|edit/em/em106/00/mod/yougan00_BM.png|edit/em/ems060/00/mod/ems060_00_BM.png|edit/em/ems060/01/mod/ems060_01_head_core_BML.png|edit/em/ems060/01/mod/ems060_01_tail_core_BM.png,box120_043_00_BML|gnd05_rock_04a_BML|stm520_000_00_BML|stm520_024_00_BML|stm520_050_00a_BML|stm650_001_00_00_BML|stm650_001_00_01_BML|stm650_002_00_00_BML|stm650_002_00_01_BML|stm650_002_00_02_BML|stm650_003_00_00_BML|stm650_003_00_01_BML|stm650_004_00_00_BML|stm650_004_00_01_BML|stm650_005_00_00_BML|stm650_005_00_01_BML|stm650_006_00_00_BML|stm650_006_00_01_BML|stm650_007_00a_BML|yougan00_BM|ems060_00_BM|ems060_01_head_core_BML|ems060_01_tail_core_BM,zorah,4,final/em/em106/00/mod/box120_043_00_BML.tex|final/em/em106/00/mod/gnd05_rock_04a_BML.tex|final/em/em106/00/mod/stm520_000_00_BML.tex|final/em/em106/00/mod/stm520_024_00_BML.tex|final/em/em106/00/mod/stm520_050_00a_BML.tex|final/em/em106/00/mod/stm650_001_00_00_BML.tex|final/em/em106/00/mod/stm650_001_00_01_BML.tex|final/em/em106/00/mod/stm650_002_00_00_BML.tex|final/em/em106/00/mod/stm650_002_00_01_BML.tex|final/em/em106/00/mod/stm650_002_00_02_BML.tex|final/em/em106/00/mod/stm650_003_00_00_BML.tex|final/em/em106/00/mod/stm650_003_00_01_BML.tex|final/em/em106/00/mod/stm650_004_00_00_BML.tex|final/em/em106/00/mod/stm650_004_00_01_BML.tex|final/em/em106/00/mod/stm650_005_00_00_BML.tex|final/em/em106/00/mod/stm650_005_00_01_BML.tex|final/em/em106/00/mod/stm650_006_00_00_BML.tex|final/em/em106/00/mod/stm650_006_00_01_BML.tex|final/em/em106/00/mod/stm650_007_00a_BML.tex|final/em/em106/00/mod/yougan00_BM.tex|final/em/ems060/00/mod/ems060_00_BM.tex|final/em/ems060/01/mod/ems060_01_head_core_BML.tex|final/em/ems060/01/mod/ems060_01_tail_core_BM.tex,BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S|BC1S
 edit/em/em107/00/mod/em107_00_BM.png,em107_00_BM,kulu,8,final/em/em107/00/mod/em107_00_BM.tex,BC1S
 edit/em/em107/00/mod/em107_00_damage_BM.png,em107_00_damage_BM,kulu,4,final/em/em107/00/mod/em107_00_damage_BM.tex,BC7S
 edit/em/em107/00/mod/em107_00_eye_bML.png,em107_00_eye_bML,kulu,4,final/em/em107/00/mod/em107_00_eye_bML.tex,BC1S
-edit/em/em107/bo/mod/em107_bombrock_BML.png,em107_bombrock_BML,kulu,4,final/em/em107/bo/mod/em107_bombrock_BML.tex,BC1S
-edit/em/em107/ha/mod/em107_hardrock_BML.png,em107_hardrock_BML,kulu,4,final/em/em107/ha/mod/em107_hardrock_BML.tex,BC1S
-edit/em/em107/ro/mod/em107_rock_BML.png,em107_rock_BML,kulu,4,final/em/em107/ro/mod/em107_rock_BML.tex,BC1S
+edit/em/em107/00/mod/em107_bombrock_BML.png,em107_bombrock_BML,kulu,4,final/em/em107/00/mod/em107_bombrock_BML.tex,BC1S
+edit/em/em107/00/mod/em107_hardrock_BML.png,em107_hardrock_BML,kulu,4,final/em/em107/00/mod/em107_hardrock_BML.tex,BC1S
+edit/em/em107/00/mod/em107_rock_BML.png,em107_rock_BML,kulu,4,final/em/em107/00/mod/em107_rock_BML.tex,BC1S
 edit/em/em108/00/mod/em108_00_BM.png,em108_00_BM,jyuratodus,8,final/em/em108/00/mod/em108_00_BM.tex,BC7S
 edit/em/em108/00/mod/em108_00_damage_BM.png,em108_00_damage_BM,jyuratodus,4,final/em/em108/00/mod/em108_00_damage_BM.tex,BC7S
 edit/em/em108/00/mod/em108_00_mud_BM.png,em108_00_mud_BM,jyuratodus,4,final/em/em108/00/mod/em108_00_mud_BM.tex,BC1S
@@ -246,7 +196,7 @@ edit/em/em111/05/mod/em111_05_eye_BM.png,em111_05_eye_BM,shrieking legiana,4,fin
 edit/em/em111/05/mod/em111_05_ice_B_BM.png,em111_05_ice_B_BM,shrieking legiana,4,final/em/em111/05/mod/em111_05_ice_B_BM.tex,BC7S
 edit/em/em111/05/mod/em111_05_ice_BM.png,em111_05_ice_BM,shrieking legiana,4,final/em/em111/05/mod/em111_05_ice_BM.tex,BC7S
 edit/em/em111/05/mod/em111_05_ice_C_BM.png,em111_05_ice_C_BM,shrieking legiana,4,final/em/em111/05/mod/em111_05_ice_C_BM.tex,BC7S
-edit/em/em112/00/mod/em112_00_BM.png,em112_00_BM,great girros,8,final/em/em112/00/mod/em112_00_BM.tex,BC1S
+edit/em/em112/00/mod/em112_00_BM.png|edit/em/ems056/00/mod/ems056_00_BM.png,em112_00_BM|ems056_00_BM,great girros,8,final/em/em112/00/mod/em112_00_BM.tex|final/em/ems056/00/mod/ems056_00_BM.tex,BC1S|BC1S
 edit/em/em112/00/mod/em112_00_damage_BM.png,em112_00_damage_BM,great girros,4,final/em/em112/00/mod/em112_00_damage_BM.tex,BC7S
 edit/em/em112/00/mod/em112_00_eye_BML.png,em112_00_eye_BML,great girros,4,final/em/em112/00/mod/em112_00_eye_BML.tex,BC1S
 edit/em/em113/00/mod/em113_00_BML.png,em113_00_BML,odogaron,8,final/em/em113/00/mod/em113_00_BML.tex,BC1S
@@ -269,12 +219,12 @@ edit/em/em116/00/mod/em116_00_damage_BM.png,em116_00_damage_BM,dodogama,4,final/
 edit/em/em116/00/mod/em116_00_eye_BM.png,em116_00_eye_BM,dodogama,4,final/em/em116/00/mod/em116_00_eye_BM.tex,BC1S
 edit/em/em116/00/mod/em116_00_rock_BM.png,em116_00_rock_BM,dodogama,4,final/em/em116/00/mod/em116_00_rock_BM.tex,BC1S
 edit/em/em117/00/mod/em117_00_BML.png,em117_00_BML,kulve,8,final/em/em117/00/mod/em117_00_BML.tex,BC1S
+edit/em/em117/00/mod/em117_00_gold_BML.png,em117_00_gold_BML,kulve,4,final/em/em117/00/mod/em117_00_gold_BML.tex,BC1S
+edit/em/em117/00/mod/em117_00_melthorn_BML.png,em117_00_melthorn_BML,kulve,4,final/em/em117/00/mod/em117_00_melthorn_BML.tex,BC1S
 edit/em/em117/00/mod/em117_00_damage_BM.png,em117_00_damage_BM,kulve,4,final/em/em117/00/mod/em117_00_damage_BM.tex,BC7S
 edit/em/em117/00/mod/em117_00_env_BML.png,em117_00_env_BML,kulve,4,final/em/em117/00/mod/em117_00_env_BML.tex,BC1S
 edit/em/em117/00/mod/em117_00_eye_BML.png,em117_00_eye_BML,kulve,4,final/em/em117/00/mod/em117_00_eye_BML.tex,BC1S
-edit/em/em117/00/mod/em117_00_gold_bML.png,em117_00_gold_bML,kulve,4,final/em/em117/00/mod/em117_00_gold_bML.tex,BC1S
 edit/em/em117/00/mod/em117_00_gold_damage_BM.png,em117_00_gold_damage_BM,kulve,4,final/em/em117/00/mod/em117_00_gold_damage_BM.tex,BC7S
-edit/em/em117/00/mod/em117_00_melthorn_BML.png,em117_00_melthorn_BML,kulve,4,final/em/em117/00/mod/em117_00_melthorn_BML.tex,BC1S
 edit/em/em117/00/mod/em117_00_noise_BML.png,em117_00_noise_BML,kulve,4,final/em/em117/00/mod/em117_00_noise_BML.tex,BC1S
 edit/em/em118/00/mod/em118_00_BML.png,em118_00_BML,bazel,8,final/em/em118/00/mod/em118_00_BML.tex,BC1S
 edit/em/em118/00/mod/em118_00_bomb_BM.png,em118_00_bomb_BM,bazel,4,final/em/em118/00/mod/em118_00_bomb_BM.tex,BC7S
@@ -321,8 +271,7 @@ edit/em/em127/01/mod/em127_01_BM.png,em127_01_BM,ancient leshen,8,final/em/em127
 edit/em/em127/01/mod/em127_01_damage_BM.png,em127_01_damage_BM,ancient leshen,4,final/em/em127/01/mod/em127_01_damage_BM.tex,BC7S
 edit/em/ems001/00/mod/ems001_00_01_BML.png,ems001_00_01_BML,aptonoth,4,final/em/ems001/00/mod/ems001_00_01_BML.tex,BC1S
 edit/em/ems002/00/mod/ems002_00_BML.png,ems002_00_BML,apceros,4,final/em/ems002/00/mod/ems002_00_BML.tex,BC1S
-edit/em/ems003/00/mod/ems003_00_BM.png,ems003_00_BM,kelbi,4,final/em/ems003/00/mod/ems003_00_BM.tex,BC7S
-edit/em/ems003/05/mod/ems003_05_BM.png,ems003_05_BM,kelbi,4,final/em/ems003/05/mod/ems003_05_BM.tex,BC7S
+edit/em/ems003/00/mod/ems003_00_BM.png|edit/em/ems003/05/mod/ems003_05_BM.png,ems003_00_BM|ems003_05_BM,kelbi,4,final/em/ems003/00/mod/ems003_00_BM.tex|final/em/ems003/05/mod/ems003_05_BM.tex,BC7S|BC7S
 edit/em/ems004/00/mod/ems004_00_BM.png,ems004_00_BM,mosswine,4,final/em/ems004/00/mod/ems004_00_BM.tex,BC1S
 edit/em/ems004/00/mod/ems004_00_glitter_BM.png,ems004_00_glitter_BM,mosswine,4,final/em/ems004/00/mod/ems004_00_glitter_BM.tex,BC7S
 edit/em/ems005/01/mod/ems005_01_BM.png,ems005_01_BM,hornetaur,4,final/em/ems005/01/mod/ems005_01_BM.tex,BC1S
@@ -330,37 +279,16 @@ edit/em/ems006/00/mod/ems006_00_BM.png,ems006_00_BM,vespoid,4,final/em/ems006/00
 edit/em/ems014/00/mod/ems014_00_BML.png,ems014_00_BML,popo,4,final/em/ems014/00/mod/ems014_00_BML.tex,BC1S
 edit/em/ems016/00/mod/ems016_00_BML.png,ems016_00_BML,anteka,4,final/em/ems016/00/mod/ems016_00_BML.tex,BC1S
 edit/em/ems029/00/mod/ems029_00_BM.png,ems029_00_BM,gajau,4,final/em/ems029/00/mod/ems029_00_BM.tex,BC7S
-edit/em/ems049/00/mod/ems049_00_BML.png,ems049_00_BML,jagras,4,final/em/ems049/00/mod/ems049_00_BML.tex,BC1S
 edit/em/ems050/00/mod/ems050_00_BM.png,ems050_00_BM,mernos,4,final/em/ems050/00/mod/ems050_00_BM.tex,BC7S
-edit/em/ems051/00/mod/ems051_00_BM.png,ems051_00_BM,kestodon,4,final/em/ems051/00/mod/ems051_00_BM.tex,BC1S
-edit/em/ems051/05/mod/ems051_05_BM.png,ems051_05_BM,kestodon,4,final/em/ems051/05/mod/ems051_05_BM.tex,BC1S
+edit/em/ems051/00/mod/ems051_00_BM.png|edit/em/ems051/05/mod/ems051_05_BM.png,ems051_00_BM|ems051_05_BM,kestodon,4,final/em/ems051/00/mod/ems051_00_BM.tex|final/em/ems051/05/mod/ems051_05_BM.tex,BC1S|BC1S
 edit/em/ems053/00/mod/ems053_00_BM.png,ems053_00_BM,raphinos,4,final/em/ems053/00/mod/ems053_00_BM.tex,BC1S
 edit/em/ems054/00/mod/ems054_00_BML.png,ems054_00_BML,shamos,4,final/em/ems054/00/mod/ems054_00_BML.tex,BC1S
 edit/em/ems054/00/mod/ems054_00_eye_BML.png,ems054_00_eye_BML,shamos,4,final/em/ems054/00/mod/ems054_00_eye_BML.tex,BC1S
 edit/em/ems055/00/mod/ems055_00_BML.png,ems055_00_BML,barnos,4,final/em/ems055/00/mod/ems055_00_BML.tex,BC1S
-edit/em/ems056/00/mod/ems056_00_BM.png,ems056_00_BM,girros,4,final/em/ems056/00/mod/ems056_00_BM.tex,BC1S
 edit/em/ems058/00/mod/ems058_00_BM.png,ems058_00_BM,gastodon,4,final/em/ems058/00/mod/ems058_00_BM.tex,BC1S
 edit/em/ems059/00/mod/ems059_00_BM.png,ems059_00_BM,noios,4,final/em/ems059/00/mod/ems059_00_BM.tex,BC1S
-edit/em/ems060/00/mod/ems060_00_BM.png,ems060_00_BM,magmacore,4,final/em/ems060/00/mod/ems060_00_BM.tex,BC1S
-edit/em/ems060/01/mod/ems060_01_head_core_BML.png,ems060_01_head_core_BML,magmacore,4,final/em/ems060/01/mod/ems060_01_head_core_BML.tex,BC1S
-edit/em/ems060/01/mod/ems060_01_tail_core_BM.png,ems060_01_tail_core_BM,magmacore,4,final/em/ems060/01/mod/ems060_01_tail_core_BM.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_accgold_BML.png,ems061_00_accgold_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_accgold_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_accplatinum_BML.png,ems061_00_accplatinum_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_accplatinum_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_bodygold_BML.png,ems061_00_bodygold_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_bodygold_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_bodyplatinum_BML.png,ems061_00_bodyplatinum_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_bodyplatinum_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_helmgold_BML.png,ems061_00_helmgold_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_helmgold_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_helmplatinum_BML.png,ems061_00_helmplatinum_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_helmplatinum_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_wegold_BML.png,ems061_00_wegold_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_wegold_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_weplatinum_BML.png,ems061_00_weplatinum_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_weplatinum_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_z_BML.png,ems061_00_z_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_z_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_z_acc_BML.png,ems061_00_z_acc_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_z_acc_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_z_body_BML.png,ems061_00_z_body_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_z_body_BML.tex,BC1S
-edit/em/ems061/00/mod/ems061_00_z_helm_BM.png,ems061_00_z_helm_BM,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_z_helm_BM.tex,BC7S
-edit/em/ems061/00/mod/ems061_00_z_we_BML.png,ems061_00_z_we_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_z_we_BML.tex,BC1S
-edit/em/ems061/01/mod/ems061_01_7_BML.png,ems061_01_7_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/01/mod/ems061_01_7_BML.tex,BC1S
-edit/em/ems061/01/mod/ems061_01_body_BML.png,ems061_01_body_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/01/mod/ems061_01_body_BML.tex,BC1S
-edit/em/ems061/01/mod/ems061_01_head_BML.png,ems061_01_head_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/01/mod/ems061_01_head_BML.tex,BC1S
-edit/em/ems061/01/mod/ems061_01_weapon_BML.png,ems061_01_weapon_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/01/mod/ems061_01_weapon_BML.tex,BC1S
+edit/em/ems061/00/mod/ems061_00_accgold_BML.png|edit/em/ems061/00/mod/ems061_00_bodygold_BML.png|edit/em/ems061/00/mod/ems061_00_helmgold_BML.png|edit/em/ems061/00/mod/ems061_00_wegold_BML.png,ems061_00_accgold_BML|ems061_00_bodygold_BML|ems061_00_helmgold_BML|ems061_00_wegold_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_accgold_BML.tex|final/em/ems061/00/mod/ems061_00_bodygold_BML.tex|final/em/ems061/00/mod/ems061_00_helmgold_BML.tex|final/em/ems061/00/mod/ems061_00_wegold_BML.tex,BC1S|BC1S|BC1S|BC1S
+edit/em/ems061/00/mod/ems061_00_accplatinum_BML.png|edit/em/ems061/00/mod/ems061_00_bodyplatinum_BML.png|edit/em/ems061/00/mod/ems061_00_helmplatinum_BML.png|edit/em/ems061/00/mod/ems061_00_weplatinum_BML.png,ems061_00_accplatinum_BML|ems061_00_bodyplatinum_BML|ems061_00_helmplatinum_BML|ems061_00_weplatinum_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_accplatinum_BML.tex|final/em/ems061/00/mod/ems061_00_bodyplatinum_BML.tex|final/em/ems061/00/mod/ems061_00_helmplatinum_BML.tex|final/em/ems061/00/mod/ems061_00_weplatinum_BML.tex,BC1S|BC1S|BC1S|BC1S
+edit/em/ems061/00/mod/ems061_00_z_BML.png|edit/em/ems061/00/mod/ems061_00_z_acc_BML.png|edit/em/ems061/00/mod/ems061_00_z_body_BML.png|edit/em/ems061/00/mod/ems061_00_z_helm_BM.png|edit/em/ems061/00/mod/ems061_00_z_we_BML.png,ems061_00_z_BML|ems061_00_z_acc_BML|ems061_00_z_body_BML|ems061_00_z_helm_BM|ems061_00_z_we_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/00/mod/ems061_00_z_BML.tex|final/em/ems061/00/mod/ems061_00_z_acc_BML.tex|final/em/ems061/00/mod/ems061_00_z_body_BML.tex|final/em/ems061/00/mod/ems061_00_z_helm_BM.tex|final/em/ems061/00/mod/ems061_00_z_we_BML.tex,BC1S|BC1S|BC1S|BC7S|BC1S
+edit/em/ems061/01/mod/ems061_01_7_BML.png|edit/em/ems061/01/mod/ems061_01_body_BML.png|edit/em/ems061/01/mod/ems061_01_head_BML.png|edit/em/ems061/01/mod/ems061_01_weapon_BML.png,ems061_01_7_BML|ems061_01_body_BML|ems061_01_head_BML|ems061_01_weapon_BML,gajalaka golden tribe or boaboa,4,final/em/ems061/01/mod/ems061_01_7_BML.tex|final/em/ems061/01/mod/ems061_01_body_BML.tex|final/em/ems061/01/mod/ems061_01_head_BML.tex|final/em/ems061/01/mod/ems061_01_weapon_BML.tex,BC1S|BC1S|BC1S|BC1S
 edit/em/ems063/00/mod/ems063_00_BML.png,ems063_00_BML,wulg,4,final/em/ems063/00/mod/ems063_00_BML.tex,BC1S
-edit/em/ems063/00/mod/ems063_00_eye_BML.png,ems063_00_eye_BML,wulg,4,final/em/ems063/00/mod/ems063_00_eye_BML.tex,BC1S
-edit/em/ems064/00/mod/ems064_00_BML.png,ems064_00_BML,cortos,4,final/em/ems064/00/mod/ems064_00_BML.tex,BC1S

@@ -11,7 +11,7 @@ if [[ "${savedGroup}" == "${group}" ]]; then
 else
     
     if [[ "${savedGroup}" != "999" || "${group}" == "" ]]; then
-        echo "${savedGroup},${newDirectory},${newFile},${savedName},${savedPaletteSize},${newFinalDirectory},${newCompression}"
+        echo "${newDirectory},${newFile},${savedName},${savedPaletteSize},${newFinalDirectory},${newCompression}" >> fileMapping_MHW.csv
     fi
     savedGroup="${group}"
     newDirectory="${directory}"
