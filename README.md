@@ -8,6 +8,8 @@ Video: [Demo 1 - Lunastra Intro](https://youtu.be/0EAiGU3hEmM)
 
 ## Instructions
 
+Basic Rundown - decompress the MHW chunks, get the .tex files, convert them to .dds, convert them to .png, edit the .pngs to recolor the monsters, compress them to .dds, convert them to .tex, use the new .tex files in game.
+
 ### Tools you'll need
 
 - MHWNoChunk - this tool allows us to decompress the MHW chunks so that we can see what they are - https://www.nexusmods.com/monsterhunterworld/mods/411?tab=description
