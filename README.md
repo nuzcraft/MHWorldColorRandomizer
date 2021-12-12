@@ -23,21 +23,23 @@ Basic Rundown - decompress the MHW chunks, get the .tex files, convert them to .
 
 These instructions are such that you can use my code to create your own unique monster variations! Unfortunately, the setup is pretty time consuming, mostly because I couldn't find a way to automate the conversion of .dds files to .pngs.
 
-1. Unchunk the chunks into a secondary location using MHWNoChunk - go in into the unchunked folder and copy all the texture files from the spreadsheet out into a new folder.
+1. Unchunk the chunks into a secondary location using MHWNoChunk.
    - you only need the **em** folder, so you don't need to unchunk everything
 2. Go into each of the subfolders in the **em** folder and copy out _most_ of the .tex with the BM or BML suffix from the _mod_ folders out into a new folder (now called tertiary location)
    - em/em001/00/mod/em001_00_BML.tex (main texture file for rathian)
      - copy these out to a tertiary location
    - some BM/BML files aren't necessary, like eye sphere, noImage, fake env
    - see **fileMapping_groups_WCR.csv** for a list of files that I've chosen to colorize
-3. Place the MHWTexConverter_by_Jodo in this folder.
-4. Select ALL the .tex files and drag it to the MHWTexConverted to convert them all to .dds
+3. Place the MHWTexConverter_by_Jodo in the tertiary folder.
+4. Select ALL the .tex files and drag it to the MHWTexConverter to convert them all to .dds
    - this will put a BC1S\_ or BC7S\_ prefix on all the .dds files
 5. Open each BC1S\_ file in GIMP and export it to a .png in the same folder
    - this requires the GIMP dds plugin and does not work for the BC7S files
+   - load mipmaps for each of these files
 6. Open each BC7S\_ file in photoshop and export it to a .png in the same folder
    - this requires the Intel Texture Works plugin
    - this will work for both BC7S and BC1S files, GIMP isn't really needed
+   - load mipmaps for each of these
    - this was the only way I found to edit BC7S files (like the main textures for Tigrex and Paolumu)
 7. Throughout this process, feel free to run **movefiles_WCR.sh** if you want, it will move all the .tex and .dds files into subfolders as a cleanup process. Not required.
 8. Copy the Organize and CSV into that same folder and run the organize script passing in the csv
