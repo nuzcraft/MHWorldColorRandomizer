@@ -23,6 +23,8 @@ Basic Rundown - decompress the MHW chunks, get the .tex files, convert them to .
 
 These instructions are such that you can use my code to create your own unique monster variations! Unfortunately, the setup is pretty time consuming, mostly because I couldn't find a way to automate the conversion of .dds files to .pngs.
 
+At the moment, full colorization of all files takes a few hours. I've already done a bit of work optimizing the code, but these files are big and colorizing them takes some time.
+
 1. Unchunk the chunks into a secondary location using MHWNoChunk.
    - you only need the **em** folder, so you don't need to unchunk everything
 2. Go into each of the subfolders in the **em** folder and copy out _most_ of the .tex with the BM or BML suffix from the _mod_ folders out into a new folder (now called tertiary location)
@@ -42,14 +44,16 @@ These instructions are such that you can use my code to create your own unique m
    - load mipmaps for each of these
    - this was the only way I found to edit BC7S files (like the main textures for Tigrex and Paolumu)
 7. Throughout this process, feel free to run **movefiles_WCR.sh** if you want, it will move all the .tex and .dds files into subfolders as a cleanup process. Not required.
-8. Copy the Organize and CSV into that same folder and run the organize script passing in the csv
+8. The two csv files have separate uses:
+   - **fileMapping_WCR.csv** is the main file we'll be using to actually organize and colorize the files using **organize_WCR.sh**
+   - **fileMapping_groups_WCR.csv** is used in conjunction with **grouping_WCR.sh** to build the **fileMapping_WCR.csv** file. Use these if you want to update the files you want to colorize.
+9. Copy the **organize_WCR.sh** and **fileMapping_WCR.csv** into the tertiary folder (the one full of .pngs) and run the organize script passing in the csv
+   - _./organizeWCR.sh fileMapping_WCR.csv_
    - this will copy the pngs to subfolders and begin colorizing them as they get moved
-   - this will take a while with the current version of the script (like 60 mins per large monster?) and will take even longer if you bump up the palette size
-   - basically, the code is super inefficient and the huge file sizes make it slow to recolor every pixel 4096x4096=16.777 million pixels each
    - this will also use NVIDEA texture tools to convert the png to dds
    - this will also use the TexConverter to convert the dds back into tex
    - finally this will move the final tex files into a new folder structure
-9. Copy the contents of the 'final' folder to nativePC to overwrite any existing textures for the recolored monsters
+10. Copy the contents of the 'final' folder to nativePC to overwrite any existing textures for the recolored monsters
 
 ## Special Thanks
 
