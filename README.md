@@ -4,7 +4,7 @@ This is a project to randomize monster colors in Monster Hunter World! A lot of 
 
 Each generation creates a unique set of monster colorations to discover and enjoy!
 
-[Demo 1 - Lunastra Intro](https://youtu.be/0EAiGU3hEmM)
+Video: [Demo 1 - Lunastra Intro](https://youtu.be/0EAiGU3hEmM)
 
 ## Instructions
 
