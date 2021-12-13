@@ -6,6 +6,12 @@ Each generation creates a unique set of monster colorations to discover and enjo
 
 Video: [Demo 1 - Lunastra Intro](https://youtu.be/0EAiGU3hEmM)
 
+## Release files
+
+If you don't want to generate new colorizations yourself, feel free to use the .zip files included in the release! Unpack whichever one you want and copy the **em** folder into your nativePC directory. This will apply the monster colorizations that I've already generated.
+
+Note: you only need to copy files from **one** of the .zip files. I included multiple so that you have options of multiple random colorizations to choose from.
+
 ## Instructions
 
 Basic Rundown - decompress the MHW chunks, get the .tex files, convert them to .dds, convert them to .png, edit the .pngs to recolor the monsters, compress them to .dds, convert them to .tex, use the new .tex files in game.
