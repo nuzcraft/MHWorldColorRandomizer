@@ -163,13 +163,13 @@ if __name__=='__main__':
     # up just a bit
     sats = []
     for x in range(1, len(hue_diff_arr)):
-        sats.append(random.random() * .3 + .2)
+        sats.append(random.random() * 1.2 - .2)
 
     # create random value changes - we'll only shift the value
     # down a little bit
     vals = []
     for x in range(1, len(hue_diff_arr)):
-        vals.append(-1*(random.random()*255*.2) - (.1*255))
+        vals.append(-1*(random.random()*255*.3) - (.1*255))
 
     # base 10% chance to fully invert the colors
     invert = False
