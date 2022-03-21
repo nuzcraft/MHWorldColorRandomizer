@@ -12,6 +12,12 @@ If you don't want to generate new colorizations yourself, feel free to use the .
 
 Note: you only need to copy files from **one** of the .zip files. I included multiple so that you have options of multiple random colorizations to choose from.
 
+## Release Randomizer (new!)
+
+Included in the release files for v1.1 is a **Release Randomizer**. This .zip includes **10** full generations of monsters plus 2 scripts for you to generate your own pseudo-random collections yourself! Unzip the folder, then use bash to run _./ReleaseRandomizer_MHW.sh fileMapping_ReleaseRandomizer_MHW.csv_. This will randomly assign monster colorations from the 10 available options into a new generation in the _final_ folder. Copy the contents of this folder into your nativePC directory.
+
+Use _ReleaseRandomizer_MHW_CHAOS.sh_ to uncouple any files that would normally move together (i.e. wings and body files or large monster and small monster files) to further randomize larger monsters into abominations.
+
 ## Instructions
 
 Basic Rundown - decompress the MHW chunks, get the .tex files, convert them to .dds, convert them to .png, edit the .pngs to recolor the monsters, compress them to .dds, convert them to .tex, use the new .tex files in game.
