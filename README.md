@@ -14,7 +14,41 @@ Note: you only need to copy files from **one** of the .zip files. I included mul
 
 ## Release Randomizer (new!)
 
-Included in the release files for v1.1 is a **Release Randomizer**. This .zip includes **10** full generations of monsters plus 2 scripts for you to generate your own pseudo-random collections yourself! Unzip the folder, then use bash to run _./ReleaseRandomizer_MHW.sh fileMapping_ReleaseRandomizer_MHW.csv_. This will randomly assign monster colorations from the 10 available options into a new generation in the _final_ folder. Copy the contents of this folder into your nativePC directory.
+Included in the release files for v1.1 is a **Release Randomizer**. These 2 scripts for you to generate your own pseudo-random collections yourself! Download and unzip the folder all ten v1.1 generations, then use bash to run _./ReleaseRandomizer_MHW.sh fileMapping_ReleaseRandomizer_MHW.csv_. This will randomly assign monster colorations from the 10 available options into a new generation in the _final_ folder. Copy the contents of this folder into your nativePC directory.
+
+For generating, your folder structure should look something like this:
+
+top level folder
+
+->v1.1_01
+
+->->em
+   
+->v1.1_02
+
+->->em
+   
+->v1.1_03
+
+->v1.1_04
+
+->v1.1_05
+
+->v1.1_06
+
+->v1.1_07
+
+->v1.1_08
+
+->v1.1_09
+
+->v1.1_10
+
+->fileMapping_MHW_ReleaseRandomizer.csv
+
+->ReleaseRandomizer_MHW.sh
+
+->ReleaseRandomizer_MHW_CHAOS.sh
 
 Use _ReleaseRandomizer_MHW_CHAOS.sh_ to uncouple any files that would normally move together (i.e. wings and body files or large monster and small monster files) to further randomize larger monsters into abominations.
 
