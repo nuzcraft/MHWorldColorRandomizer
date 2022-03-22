@@ -20,17 +20,4 @@ do
     mkdir -p $(dirname "${finalDirectory_arr[index]}") && cp "$folder/${directory_arr[index]}" "${finalDirectory_arr[index]}"; 
 done
 
-# echo "colorizing $name - $directory"
-# python colorize.py -p $paletteSize -f $directory 
-
-# for index in "${!directory_arr[@]}"
-# do
-#     echo "compressing $name - ${directory_arr[index]} to dds"
-#     nvcompress -color -alpha -bc1a ${directory_arr[index]} "${directory_arr[index]%.*}.dds"
-#     echo "converting $name - ${directory_arr[index]} back to .tex"
-#     ./MHWTexConverter_by_Jodo.exe "${directory_arr[index]%.*}.dds"
-#     echo "moving $name - ${directory_arr[index]} to ${finalDirectory_arr[index]}"
-#     mkdir -p $(dirname "${finalDirectory_arr[index]}") && cp "${directory_arr[index]%.*}.tex" "${finalDirectory_arr[index]}"
-# done
-
 done
