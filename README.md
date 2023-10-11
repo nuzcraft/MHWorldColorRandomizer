@@ -12,7 +12,9 @@ I've included files and instructions for how to colorize and mod your copy of th
 
 Colorization was changed significantly in v1.2. Existing monster colorizations should be a bit more maintained and there should be less clashing color elements, especially with part breaks and on bigger monsters (like Zorah).
 <div align="center">
+  
 ![collage](https://github.com/nuzcraft/MHWorldColorRandomizer/assets/20135847/9c889f67-d4d8-4986-a886-f056bd6f86c9)
+
 </div>
 
 ## How does the mod work?
