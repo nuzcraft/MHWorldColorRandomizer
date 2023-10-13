@@ -16,8 +16,9 @@ do
     mkdir -p $(dirname "${directory_arr[index]}") && cp "${compression_arr[index]}_${file_arr[index]}.png" "${directory_arr[index]}"; 
 done
 
-echo "colorizing $name - $directory"
-python colorize.py -f $directory 
+echo "greyscaling $name - $directory"
+# python greyscale.py -f $directory 
+python greyscale_saturate_eyes.py -f $directory
 
 for index in "${!directory_arr[@]}"
 do
